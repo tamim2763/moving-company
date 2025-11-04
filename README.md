@@ -36,7 +36,7 @@ This is a static website. You can run it with no special tools.
 
 1.  Clone this repository:
     ```bash
-    git clone [https://github.com/tamim2763/moving-company.git](https://github.com/tamim2763/moving-company.git)
+    git clone https://github.com/tamim2763/moving-company.git
     ```
 2.  Navigate to the project folder:
     ```bash
