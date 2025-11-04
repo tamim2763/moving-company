@@ -6,7 +6,7 @@ This project was a learning exercise to master Bootstrap's grid system, responsi
 
 ### 📷 Screenshot
 
-(Drag and drop a screenshot of your `index.html` page here!)
+<img width="400" alt="home page" src="https://github.com/user-attachments/assets/a5c96815-b078-4816-9562-5c907d57649a" />
 
 ---
 
