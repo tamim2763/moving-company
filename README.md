@@ -4,13 +4,19 @@ A responsive static landing page for a fictional moving company, built to practi
 
 This project was a learning exercise to master Bootstrap's grid system, responsive components, and utility classes.
 
-### 📷 Screenshot
+### Live Demo
+
+[**Visit the website!**](tamim2763.github.io/moving-company/)
+
+---
+
+### Screenshot
 
 <img width="400" alt="home page" src="https://github.com/user-attachments/assets/a5c96815-b078-4816-9562-5c907d57649a" />
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 * **HTML5**
 * **CSS3** (with a small embedded stylesheet)
@@ -30,7 +36,7 @@ This project was a learning exercise to master Bootstrap's grid system, responsi
 
 ---
 
-### 🚀 How to Run Locally
+### How to Run Locally
 
 This is a static website. You can run it with no special tools.
 
